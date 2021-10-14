@@ -1,4 +1,4 @@
-model_file = "C:\\Users\\Aurko\\source\\repos\\simple_ml_cpp\\simple_ml_cpp\\model.txt"
+model_file = ".\\model.txt"
 layers = c(0,12,2)
 weights = vector("list", length(layers) - 1)
 biases = vector("list", length(layers) - 1)
